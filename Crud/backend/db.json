@@ -1,15 +1,19 @@
 {
-    "products" : [{
-            "id" :  1,
-            "name":  "Caneta Bic Preta",
-            "price": 5.89
-            },{
-                "id" :  2,
-                "name":  "Notebook",
-                "price": 1200.89
-        },{
-            "id" :  3,
-            "name":  "Celular",
-            "price": 500
-    }]
-        }
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook",
+      "price": 1200.89
+    },
+    {
+      "id": 3,
+      "name": "Celular",
+      "price": 500
+    }
+  ]
+}
